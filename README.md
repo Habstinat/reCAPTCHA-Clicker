@@ -1,4 +1,4 @@
-# reCAPTCHA-Clicker
+# reCAPTCHA Clicker
 
 required changes: 
 * update DB information to a valid MySQL databse
